@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Philip Eldred 
 
 You can use the [editor on GitHub](https://github.com/alston332/coursea-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
